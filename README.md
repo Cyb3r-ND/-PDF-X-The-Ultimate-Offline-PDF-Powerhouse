@@ -1,3 +1,5 @@
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/73ab0fb7-5217-4a2a-b90f-148fc30a3864" />
+
 # -PDF-X-The-Ultimate-Offline-PDF-Powerhouse
 PDF-X is a professional, high-speed, and fully offline desktop utility designed to handle all your PDF needs without limits, ads, or privacy risks.
 🛡️ Transparency Report / Laporan Transparansi
