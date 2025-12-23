@@ -2,13 +2,13 @@
 PDF-X is a professional, high-speed, and fully offline desktop utility designed to handle all your PDF needs without limits, ads, or privacy risks.
 🛡️ Transparency Report / Laporan Transparansi
 
-![Rec 0002](https://github.com/user-attachments/assets/03834a54-0cf5-4b07-8070-46d75ae9966d)
-
 Is this app safe? YES. PDF-X is built using Python. Due to the way Python apps are packaged into .exe files, some over-sensitive antivirus engines (like Jiangmin or Zillya) may flag it as a "False Positive" (typically 2 detections out of 70).
 
 Verify yourself: This project is 100% Open Source. You can inspect every line of code in this repository.
 
 VirusTotal Scan: https://www.virustotal.com/gui/file/db5f65e71bc100f3d210dd824aab483f16f31cbcabb6ef1ea137fbb193870426?nocache=1
+
+![Rec 0002](https://github.com/user-attachments/assets/03834a54-0cf5-4b07-8070-46d75ae9966d)
 
 ✨ Features / Fitur Utama
 
