@@ -17,7 +17,7 @@ VirusTotal Scan: https://www.virustotal.com/gui/file/db5f65e71bc100f3d210dd824aa
 3. Privacy First: 100% Offline. Your data never leaves your PC. / 100% Offline. Data Anda tidak pernah meninggalkan komputer.
 
 🚀 Quick Start / Cara Penggunaan
--Download PDF-X_v3.4.exe from the Latest Release.
+-Download PDF-X_v3.4.exe from the Latest Release (https://github.com/Cyb3r-ND/-PDF-X-The-Ultimate-Offline-PDF-Powerhouse/releases/tag/pdf)
 -Run the app (No installation needed).
 -Drag & Drop your files and click Execute.
 
